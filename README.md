@@ -1,4 +1,4 @@
-<h1 align="center">🌲 KHB Linktree</h1>
+<h1 align="center">🌲 Kiel's Linktree</h1>
 <h3 align="center">Simple site to group all my profiles on social networks in one place.</h3>
 
 <p align="center">
